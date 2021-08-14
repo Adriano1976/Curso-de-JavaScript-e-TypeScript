@@ -6,3 +6,10 @@ Os códigos aqui criados e manipulados de acordo com as instruções passada pel
 ao Avançado progressivamente de acordo com o site da https://www.udemy.com/ Nesses projetos e exercícios foram criados e divididos por seções com os assuntos compreendidos e 
 projetados para a realização de cada tarefa aplicada de forma simplificada e de alguns ângulos diferentes, de forma a chegarem a um único propósito que é resolver um 
 determinado problema.
+
+  <a href="https://github.com/Adriano1976/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adriano1976" />
+</a>
+<a href="https://github.com/Adriano1976/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano1976&langs_count=8" />
+</a>
